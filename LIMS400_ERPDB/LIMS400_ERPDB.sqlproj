@@ -59,4 +59,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <PreDeploy Include="TorrentColumnsChanges.sql" />
+  </ItemGroup>
 </Project>
